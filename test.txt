@@ -1,3 +1,7 @@
+Hi this is code file for c
+
+heloo learning c lanaguage 
+
 
 tetsiomg the file and upoad to repo at server side
 
